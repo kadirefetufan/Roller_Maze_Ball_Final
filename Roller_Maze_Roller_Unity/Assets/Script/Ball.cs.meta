@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: af2294ea82430f349b6509eeca6183ad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _rb: {instanceID: 0}
+  - _scoreBar: {instanceID: 0}
+  - ball1: {fileID: 2100000, guid: 4b7d1b50af5c44a4197a33ea053c4160, type: 2}
+  - ball2: {fileID: 2100000, guid: 28bf60fd4098f1b45aa9e3bc75e7e6d4, type: 2}
+  - ball3: {fileID: 2100000, guid: 74100fa7b8fb4454ebef983d8d31552b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
